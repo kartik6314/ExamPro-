@@ -3,67 +3,37 @@
   <h1>ExamPor</h1>
   <p>
     A Online Exam portal website with backend in Nodejs and frontend in React js 
-  </p>
+
+  Features:-
+Student User
+    View Tests Details
+    Register for test
+    Give Test
+    Check Result and correct answer and explanation for questions
+Teacher User
+    Create, Update Questions and Question Banks
+    Create, View Test
+Admin User
+    Create and Manage Teacher users
+    Create and Manage subjects.
+
+
+Tech Stack:-
+    Frontend:-
+                    React.js
+                    React-Redux
+                    Material UI library
+                    HTML 5
+                    CSS 3
+    Backend:-
+                    Node.js
+                    Express.js
+                    Passport.js
+    Database:-
+                    MongoDB
+      </p>
   
-
-
-
-
-<!-- About the Project -->
-## :star2: About the Project
-  Web Application for online MCQ test usecase
-
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
-
-<details>
-  <summary>Frontend</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://react-redux.js.org/">React-Redux</a></li>
-    <li><a href="https://www.mui.com">Material UI library</a></li>
-    <li><a href="https://html.com/html5/">HTML 5</a></li>
-    <li><a href="https://www.css3.com/">CSS 3</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Backend</summary>
-  <ul>
-    <li><a href="https://www.nodejs.org">Node.js</a></li>
-    <li><a href="https://www.expressjs.com/">Express.js</a></li>
-    <li><a href="https://www.passportjs.org/">Passport.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
-  </ul>
-</details>
-
-
-<!-- Features -->
-### :dart: Features
-
-- Student User
-  - View Tests Details
-  - Register for test
-  - Give Test
-  - Check Result and correct answer and explanation for questions
-- Teacher User
-  - Create, Update Questions and Question Banks
-  - Create, View Test
-- Admin User
-  - Create and Manage Teacher users
-  - Create and Manage subjects
-
-
-
-
-
+How to run :-
 
 Go to the project directory
 
@@ -120,12 +90,5 @@ Run container and services
   docker-compose up
 ```
 
-Use following paths 
-
-```bash
-  Backend server : localhost:5000/
-  Admin Frontend : localhost:3100/
-  User  Frontend : localhost:3200/
-```
 
 
