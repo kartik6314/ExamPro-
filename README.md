@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>ExamPor</h1>
+  <h1>ExamPro</h1>
   <p>
     A Online Exam portal website with backend in Nodejs and frontend in React js 
 
